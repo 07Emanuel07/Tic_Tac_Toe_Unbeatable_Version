@@ -8,7 +8,7 @@ I created an unbeatable Tic Tac Toe game using the Minimax Algorithm.
 <img src="https://github.com/user-attachments/assets/7d2a1f21-8d76-4575-972a-5171ecc35c9f" width="50%" height="50%"/>
 
 ## 🚀 A Few Things About Me
-I absolved a Front End Web Development and an Online Python Bootcamp. Through this journey I created various projects for learning purposes such as: 
+I absolved Front End Web Development courses and an Online Python Bootcamp on Udemy. Through this journey I created various projects for learning purposes such as: 
 - A program that sends me a message when the ISS is above me
 - Predicting house prices in Boston using Linear Regression
 - Predicting when it will rain and then receiving a text message
