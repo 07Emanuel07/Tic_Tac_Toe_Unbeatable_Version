@@ -15,4 +15,5 @@ I absolved Front End Web Development courses and an Online Python Bootcamp. Thro
 - Games like the Snake Game, Race Game, Turtle Crosswalk, US States Quiz and Pong Game
 - A Birthday Wisher Program that sends my friends or family a Happy Birthday message on their Birthday(I hate to forget wishing them Happy Birthday)
 - more Selenium Projects, more Linear Regression and Data Visualization Projects and more...
+
 You'll find some of my projects on Github.
