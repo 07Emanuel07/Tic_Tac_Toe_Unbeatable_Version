@@ -12,7 +12,7 @@ Right now, I’m working on sharpening my programming skills by diving into prac
 I absolved Front End Web Development courses and an Online Python Bootcamp. Through this journey I created various projects for learning purposes such as: 
 - A program that sends me a message when the ISS is above me
 - Predicting house prices in Boston using Linear Regression
-- Games like the Snake Game, Race Game, Turtle Crosswalk and Pong Game
+- Games like the Snake Game, Race Game, Turtle Crosswalk, US States Quiz and Pong Game
 - A Birthday Wisher Program that sends my friends or family a Happy Birthday message on their Birthday(I hate to forget wishing them Happy Birthday)
 - more Selenium Projects, more Linear Regression and Data Visualization Projects and more...
 You'll find some of my projects on Github.
