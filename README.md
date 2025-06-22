@@ -9,7 +9,7 @@ I created an unbeatable Tic Tac Toe game using the Minimax Algorithm.
 
 ## 🚀 A Few Things About Me
 Right now, I’m working on sharpening my programming skills by diving into practical projects.
-I absolved Front End Web Development courses and an Online Python Bootcamp on Udemy. Through this journey I created various projects for learning purposes such as: 
+I absolved Front End Web Development courses and an Online Python Bootcamp. Through this journey I created various projects for learning purposes such as: 
 - A program that sends me a message when the ISS is above me
 - Predicting house prices in Boston using Linear Regression
 - Games like the Snake Game, Race Game, Turtle Crosswalk and Pong Game
